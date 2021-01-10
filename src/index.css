@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a,
+button {
+  text-decoration: none;
+  cursor: pointer;
+  outline: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* 避免資料新增造成 scroll bar 位移抖動 */
+  overflow: overlay;
+}
+
+html,
+body {
+  height: 100%;
+  font-family: serif, monospace, "微軟正黑體";
+  color: #4a4a4a;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: url(./components/images/bg_2.jpg) fixed no-repeat center / cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
