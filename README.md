@@ -1,10 +1,12 @@
 # Succulents Society 多肉植物討論區
 
+## 專案簡介
+
 「Succulents Society 多肉植物討論區」，是一個以 SPA 架構實作的簡易部落格系統，採用前端技術為 React Hooks，搭配 JSON Server 模擬 Restful API 進行開發。
 
-[網站 DEMO](https://heidiliu2020.github.io/react-blog-test/#/)
+[網站 DEMO](https://heidiliu2020.github.io/succulents-society)
 
-![](![](https://i.imgur.com/G2phauR.jpg)
+![](https://i.imgur.com/G2phauR.jpg)
 
 ## 核心功能
 
@@ -12,8 +14,6 @@
 - 瀏覽文章功能：依照文章篇數顯示分頁，可瀏覽單篇文章頁面
 - 管理文章功能：可輸入標題、內文、封面圖片來發布文章，user 可編輯或刪除本人的文章，admin 具有最高權限管理文章
 - 錨點功能：點擊回到頂部按鈕、或 URL 改變時均會回到網頁頂部
-
-![](https://i.imgur.com/2qkNfak.png)
 
 ## 專案前端技術
 
