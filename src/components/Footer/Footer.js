@@ -52,7 +52,11 @@ export default function Footer() {
       <CopyRight>
         <p>Copyright © 2020</p>
         <span>{" ♥ "}Powered by React.js</span>
-        <a href="https://github.com/heidiliu2020" target="_blank">
+        <a
+          href="https://github.com/heidiliu2020"
+          target="_blank"
+          rel="noreferrer nofollow"
+        >
           <GithubIcon></GithubIcon>
         </a>
       </CopyRight>

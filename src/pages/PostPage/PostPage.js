@@ -68,7 +68,7 @@ const PostBody = styled.div`
 
 export default function PostPage() {
   const { isLoading, setIsLoading } = useContext(LoadingContext);
-  const [post, setPost] = useState(null);
+  const [post, setPost] = useState("");
   const { id } = useParams();
 
   useEffect(() => {

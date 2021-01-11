@@ -1,4 +1,4 @@
-import React, { useContext, useRef } from "react";
+import React, { useContext } from "react";
 import styled from "styled-components";
 import { Link, NavLink, useHistory, useLocation } from "react-router-dom";
 
