@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/succulents-society/static/css/main.5eb69ff1.chunk.css",
-    "main.js": "/succulents-society/static/js/main.b14f2a02.chunk.js",
-    "main.js.map": "/succulents-society/static/js/main.b14f2a02.chunk.js.map",
+    "main.js": "/succulents-society/static/js/main.bcc1dd0f.chunk.js",
+    "main.js.map": "/succulents-society/static/js/main.bcc1dd0f.chunk.js.map",
     "runtime-main.js": "/succulents-society/static/js/runtime-main.c44928b5.js",
     "runtime-main.js.map": "/succulents-society/static/js/runtime-main.c44928b5.js.map",
     "static/js/2.33bfe028.chunk.js": "/succulents-society/static/js/2.33bfe028.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c44928b5.js",
     "static/js/2.33bfe028.chunk.js",
     "static/css/main.5eb69ff1.chunk.css",
-    "static/js/main.b14f2a02.chunk.js"
+    "static/js/main.bcc1dd0f.chunk.js"
   ]
 }
