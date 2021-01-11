@@ -28,9 +28,11 @@ user 能夠註冊、登入會員，並使用 JWT 進行身分驗證。
 
 ![](https://github.com/heidiliu2020/succulents-society/blob/master/public/newpost.gif)
 
-#### - 錨點功能
+#### 錨點功能
 
 點擊「回到頂部」或「關於本站」按鈕可連至目標區塊，URL 改變時均會回到網頁頂部。
+
+![](https://github.com/heidiliu2020/succulents-society/blob/master/public/spinners.gif)
 
 ## 專案前端技術
 
