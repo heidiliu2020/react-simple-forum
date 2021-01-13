@@ -1,4 +1,4 @@
-# Succulents Society 多肉植物討論區
+# Succulents Society 多肉植物交流站
 
 ## 專案簡介
 
