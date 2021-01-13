@@ -2,7 +2,7 @@
 
 ## 專案簡介
 
-「Succulents Society 多肉植物討論區」，是一個以 SPA 架構實作的簡易部落格系統，採用前端技術為 React Hooks，搭配 JSON Server 模擬 Restful API 進行開發。
+「Succulents Society 多肉植物交流站」，是一個以 SPA 架構實作的簡易部落格系統，採用前端技術為 React Hooks，搭配 JSON Server 模擬 Restful API 進行開發。
 
 [網站 DEMO](https://heidiliu2020.github.io/succulents-society)
 
